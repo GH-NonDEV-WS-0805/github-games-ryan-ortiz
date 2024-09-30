@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: [https://githubschool.github.io/github-games/](https://GH-NonDEV-WS-0805.github.io/github-games-ryan-ortiz)
+You can play the game at: [https://github.com/GH-NonDEV-WS-0805/github-games-ryan-ortiz](https://github.com/GH-NonDEV-WS-0805/github-games-ryan-ortiz)
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
